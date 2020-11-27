@@ -10,7 +10,7 @@
 		<version>2.3.5.RELEASE</version>
 	</parent>
 
-	<groupId>come.hope</groupId>
+	<groupId>com.hope</groupId>
 	<artifactId>spring-cloud-parent</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
